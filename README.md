@@ -1,9 +1,3 @@
-아래는 **지금까지 진행한 평가 내용 전체를 정리한 GitHub `README.md` 형식**이야.
-보고서·과제·프로젝트 리포지토리에 그대로 올려도 자연스럽고,
-평가 기준 → 계산 방법 → 결과 → 시각화 → 결론 흐름이 명확하게 보이도록 구성했어.
-
----
-
 # 🚗 Autonomous Driving Algorithm Performance Evaluation
 
 본 프로젝트는 자율주행 차량 제어 알고리즘 **Pure Pursuit (PP)**, **Hybrid**, **MPC**
