@@ -211,7 +211,7 @@ controller_cpp/
 
 ### 6.2 Radar Chart Analysis
 
-![Radar Chart-Performance](./appx/radar_chart.png)
+![Radar Chart-Performance](./appx/radar.png)
 
 #### 결과 해석
 
