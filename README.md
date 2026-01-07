@@ -1,4 +1,4 @@
-# Autonomous Driving Controller Stack
+# Autonomous Driving Programming
 
 **Pure Pursuit · Hybrid · MPC with Safety & Escape System**
 
